@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [DemoUtils.cs](./CS/DemoUtils.cs) (VB: [DemoUtils.vb](./VB/DemoUtils.vb))
+* [MainWindow.xaml](./CS/MainWindow.xaml) (VB: [MainWindow.xaml.vb](./VB/MainWindow.xaml.vb))
+* [MainWindow.xaml.cs](./CS/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/MainWindow.xaml.vb))
+<!-- default file list end -->
 # How to implement drag and drop between a legacy scheduler and a grid
 
 
